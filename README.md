@@ -1,6 +1,8 @@
 # Datacompe2018
 ビッグデータ大学2018
 
+# やったこと
+
 ## IDの取り扱い
 ID -> one-hot-vectorしてくっつけて、PCAによる次元削減 
 
@@ -8,3 +10,6 @@ ID -> one-hot-vectorしてくっつけて、PCAによる次元削減
 userによるクリック有無
 
 userごとにクリック率($\frac{クリック数}{広告を見た回数}$)を計算、
+
+## 分類器のアンサンブル
+RF,NN,Logistic Regression
